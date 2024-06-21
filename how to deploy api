@@ -1,2 +1,4 @@
 
 gunicorn main:app
+
+vercel deployy
